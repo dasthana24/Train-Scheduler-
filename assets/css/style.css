@@ -1,0 +1,35 @@
+body{
+    font-family: tahoma, helvetica, arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+   
+    padding-top: 12px;
+    line-height: 2;
+    background: url("../images/gray-background-2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:alpha(opacity=80);
+}
+
+
+.jumbotron{
+    background:url("../images/ss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    border:3px solid orange;
+}
+
+h1,h3,h4{
+    color:orange;
+}
+h4{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    height: 500px;
+    border:3px solid darkgrey;
+}
